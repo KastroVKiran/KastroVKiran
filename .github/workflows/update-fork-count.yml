@@ -1,0 +1,36 @@
+name: Update Total Fork Count
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Calculate Total Forks
+        id: forks
+        run: |
+          total_forks=0
+          repos=$(curl -s https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100 | jq -r '.[].forks_count')
+          for repo in $repos; do
+            total_forks=$((total_forks + repo))
+          done
+          echo "Total Forks: $total_forks"
+          echo "::set-output name=total_forks::$total_forks"
+
+      - name: Update README
+        run: |
+          sed -i "s/🔗 Total Forks: [0-9]*/🔗 Total Forks: ${{ steps.forks.outputs.total_forks }}/" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated total forks count" || echo "No changes to commit"
+          git push origin main
