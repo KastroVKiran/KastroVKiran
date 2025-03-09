@@ -28,7 +28,7 @@
 ## 🔥 Auto-Updating GitHub Stats  
 
 ### ⭐ **GitHub Followers**
-![Live Followers](https://img.shields.io/github/followers/KastroVKiran?color=brightgreen&label=Followers&style=for-the-badge)  
+![Live Followers](https://img.shields.io/github/followers/KastroVKiran?color=brightgreen&label=Followers&style=for-the-badge&logo=github)  
 
 ### 🍴 **Forks**
 ![Live Forks](https://img.shields.io/github/forks/KastroVKiran?color=orange&label=Forks&style=for-the-badge&logo=github)  
@@ -45,7 +45,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@LearnWithKASTRO)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kastro-kiran/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/yourprofile)  
+
 📧 **Email:** kastrokiran@gmail.com  
 
 ---
