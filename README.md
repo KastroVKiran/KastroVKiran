@@ -25,18 +25,14 @@
 
 ---
 
-## 🔥 Auto-Updating GitHub Stats  
+## 🔥 GitHub Stats  
 
-### ⭐ **GitHub Followers**
 ![Live Followers](https://img.shields.io/github/followers/KastroVKiran?color=brightgreen&label=Followers&style=for-the-badge&logo=github)  
 
-### 🍴 **Forks**
 ![Live Forks](https://img.shields.io/github/forks/KastroVKiran?color=orange&label=Forks&style=for-the-badge&logo=github)  
 
-### 🌟 **Stars**
 ![Live Stars](https://img.shields.io/github/stars/KastroVKiran?color=yellow&label=Stars&style=for-the-badge&logo=github)  
 
-### 👀 **Profile Views**
 ![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&style=for-the-badge)  
 
 ---
