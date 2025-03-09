@@ -54,10 +54,6 @@
 
 ## 📊 GitHub Stats  
 
-📌 **My GitHub Journey**  
-- 🏆 **GitHub Trophies:**  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KastroVKiran&theme=radical&margin-w=10)  
-
 📌 **My Code Contributions**  
 - 📝 **Lines of Code Written:**  
   ![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5M%2B-blue?style=flat-square)  
