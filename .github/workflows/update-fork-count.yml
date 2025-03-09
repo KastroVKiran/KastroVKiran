@@ -9,28 +9,41 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout Repository (Main Branch)
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Ensure we are updating the README in the main branch
 
       - name: Calculate Total Forks
-        id: forks
+        env:
+          GH_USER: ${{ github.repository_owner }}
         run: |
           total_forks=0
-          repos=$(curl -s https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100 | jq -r '.[].forks_count')
-          for repo in $repos; do
-            total_forks=$((total_forks + repo))
+          page=1
+          while true; do
+            response=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+                     "https://api.github.com/users/$GH_USER/repos?per_page=100&page=$page")
+            
+            repo_forks=$(echo "$response" | jq -r '.[].forks_count')
+            [ -z "$repo_forks" ] && break  # Exit loop if no more repos
+            
+            for forks in $repo_forks; do
+              total_forks=$((total_forks + forks))
+            done
+            page=$((page + 1))
           done
+
+          echo "TOTAL_FORKS=$total_forks" >> $GITHUB_ENV
           echo "Total Forks: $total_forks"
-          echo "::set-output name=total_forks::$total_forks"
 
       - name: Update README
         run: |
-          sed -i "s/🔗 Total Forks: [0-9]*/🔗 Total Forks: ${{ steps.forks.outputs.total_forks }}/" README.md
+          sed -i "s/🔗 Total Forks: [0-9]*/🔗 Total Forks: $TOTAL_FORKS/" README.md
 
-      - name: Commit Changes
+      - name: Commit & Push Changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated total forks count" || echo "No changes to commit"
+          git commit -m "Updated total forks count" || exit 0  # Avoid failure if no changes
           git push origin main
