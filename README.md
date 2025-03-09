@@ -20,6 +20,7 @@
 ### ☁️ Cloud Platforms  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ### 🔧 DevOps Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -32,21 +33,17 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
-### 📦 Package Management & Security  
-![Nexus](https://img.shields.io/badge/Nexus-4E4E4E?style=for-the-badge&logo=sonatype&logoColor=white)  
+![Nexus](https://img.shields.io/badge/Nexus-1D1D1D?style=for-the-badge&logo=sonatype&logoColor=white)  
 ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)  
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
-![Trivy](https://img.shields.io/badge/Trivy-5E72E4?style=for-the-badge&logo=aqua&logoColor=white)  
+![Trivy](https://img.shields.io/badge/Trivy-FF4081?style=for-the-badge&logo=aqua&logoColor=white)  
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)  
 ![Docker Scout](https://img.shields.io/badge/Docker%20Scout-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ### 📊 Monitoring & Logging  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-
-### 🎯 Project & Issue Tracking  
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ### 💻 Programming & Scripting  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
