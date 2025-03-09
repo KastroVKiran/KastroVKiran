@@ -1,5 +1,5 @@
 # 🌍 KASTRO'S TECH SPACE 🚀  
-**☁️ AWS | 🔧 DevOps | 🎥 Educator | 🏆 Mentor**  
+**☁️ AWS | 🔧 DevOps | 🎥 Educator | 🏆 Mentor**   
 
 💡 *Empowering Cloud enthusiasts with hands-on AWS & DevOps classes!*  
 
