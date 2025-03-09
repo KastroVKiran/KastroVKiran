@@ -10,7 +10,10 @@
 ## 👨‍🎓 About Me  
 - 🎓 **PhD Scholar | Cloud & DevOps Specialist | Corporate Trainer | Content Creator**  
 - 📺 **YouTube Instructor:** [![YouTube](https://img.shields.io/badge/-Learn%20With%20KASTRO-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithKASTRO)  
-- 🚀 **Trained 700+ professionals in AWS & DevOps**  
+  ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?label=YouTube%20Subscribers&style=social)  
+- 👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kastro-kiran/)  
+  ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-XXXX-blue?logo=linkedin)  
+- 🚀 **Trained 1500+ professionals in AWS & DevOps**  
 - 🌟 **Helping professionals upskill & land top tech jobs!**  
 
 ---
