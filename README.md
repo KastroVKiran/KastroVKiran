@@ -1,5 +1,5 @@
 # 🌍 KASTRO'S TECH SPACE 🚀  
-**☁️ AWS | 🔧 DevOps | 🎥 Educator | 🏆 Mentor**  
+**☁️ AWS | 🏰 DevOps | 🎥 Educator | 🏆 Mentor**  
 
 💡 *Empowering Cloud enthusiasts with hands-on AWS & DevOps classes!*  
 
@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me  
 - 🎓 **PhD Scholar | Cloud & DevOps Specialist | Corporate Trainer | Content Creator**  
-- 📺 **YouTube Instructor:** [![YouTube](https://img.shields.io/badge/-Learn%20With%20KASTRO-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithKASTRO)  
+- 🎮 **YouTube Instructor:** [![YouTube](https://img.shields.io/badge/-Learn%20With%20KASTRO-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithKASTRO)  
 - 🚀 **Trained 1500+ professionals in AWS & DevOps**  
 - 🌟 **Helping professionals upskill & land top tech jobs!**  
 
@@ -51,7 +51,7 @@
 - 📝 **Lines of Code Written:**  
   ![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5M%2B-blue?style=flat-square)  
 
-- 📅 **Commit Streak:**  
+- 🗓 **Commit Streak:**  
   ![GitHub Streak](https://streak-stats.demolab.com?user=KastroVKiran&theme=radical)  
 
 ---
@@ -59,8 +59,8 @@
 ## 🔗 Connect With Me  
 
 📧 **Email:** [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kastrokiran@gmail.com)  
-👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kastro-kiran/)  
-📺 **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@LearnWithKASTRO)  
+💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kastro-kiran/)  
+🎮 **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@LearnWithKASTRO)  
 
 ---
 
