@@ -6,9 +6,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔥 **AWS & DevOps Engineer | Cloud Enthusiast | Content Creator**  
+- 🔥 **PhD Scholar | Cloud & DevOps Specialist | Corporate Trainer | Content Creator**  
 - 🎓 **YouTube Instructor:** [Learn With KASTRO](https://www.youtube.com/@LearnWithKASTRO)  
-- 💼 **Helping professionals upskill in AWS & DevOps through real-world projects.**  
+- 💼 **Helping professionals upskill in AWS & DevOps.**
+- 💼 **Trained morethan 1500+ students.**  
 
 ---
 
@@ -27,9 +28,9 @@
 
 ## 🔥 GitHub Stats  
 
-- 🌟 **Followers:** ![GitHub Followers](https://img.shields.io/github/followers/KastroVKiran?color=brightgreen&label=Followers&style=for-the-badge&logo=github)  
-- 🔥 **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/KastroVKiran?color=yellow&label=Stars&style=for-the-badge&logo=github)  
-- 📌 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&style=for-the-badge)  
+- 🌟 ![GitHub Followers](https://img.shields.io/github/followers/KastroVKiran?color=brightgreen&label=Followers&style=for-the-badge&logo=github)  
+- 🔥 ![GitHub Stars](https://img.shields.io/github/stars/KastroVKiran?color=yellow&label=Stars&style=for-the-badge&logo=github)  
+- 📌 ![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&style=for-the-badge)  
 - 🔗 **Total Forks:** 0  
 
 ---
