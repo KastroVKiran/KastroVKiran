@@ -15,21 +15,47 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ My Tech Stack  
 
-📢 ![GitHub Followers](https://img.shields.io/github/followers/KastroVKiran?color=blue&label=Followers&style=flat-square&logo=github)  
-⭐ ![GitHub Stars](https://img.shields.io/github/stars/KastroVKiran?color=yellow&label=Stars&style=flat-square&logo=github)  
-📌 ![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&style=flat-square&color=blue)  
+**☁️ Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-📈 **GitHub Performance:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KastroVKiran&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KastroVKiran&layout=compact&theme=radical)  
+**🔧 DevOps Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+**💻 Programming & Scripting**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 
 ---
 
-## 🔥 Contribution Graph  
+## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KastroVKiran&theme=radical)](https://git.io/streak-stats)  
+📌 **My GitHub Journey**  
+- 🏆 **GitHub Trophies:**  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KastroVKiran&theme=radical&margin-w=10)  
+
+📌 **My Coding Habits**  
+- 🕒 **Most Active Time:**  
+  ![Most Active](https://github-readme-stats.vercel.app/api/wakatime?username=KastroVKiran&theme=radical)  
+
+📌 **My Code Contributions**  
+- 📝 **Lines of Code Written:**  
+  ![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5M%2B-blue?style=flat-square)  
+
+- 📅 **Commit Streak:**  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=KastroVKiran&theme=radical)  
 
 ---
 
