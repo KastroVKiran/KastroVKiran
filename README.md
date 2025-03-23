@@ -45,6 +45,9 @@
 - 📅 **Commit Streak:**  
   ![GitHub Streak](https://streak-stats.demolab.com?user=KastroVKiran&theme=radical)  
 
+### Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&color=blue&style=flat-square)  
+
 ---
 
 🎉 *Thank you for visiting my GitHub! Don't forget to ⭐ my repositories!* 🚀  
