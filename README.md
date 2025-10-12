@@ -3,6 +3,8 @@
 
 💡 *Empowering Cloud enthusiasts with hands-on AWS & DevOps classes!*  
 
+🌐 **Explore more AWS & DevOps courses:** [www.learnwithkastro.com](https://www.learnwithkastro.com)  
+
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1747267200&v=beta&t=L6h8BKPXRbbMoB99LcotWilLrK4llQ-y6wd6q9ZAHnQ" width="150" height="150" align="right" />
 
 ---
@@ -12,6 +14,7 @@
 - 📺 **YouTube Instructor:** [![YouTube](https://img.shields.io/badge/-Learn%20With%20KASTRO-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithKASTRO)  
 - 🚀 **Trained 800+ professionals in AWS & DevOps**  
 - 🌟 **Helping professionals upskill & land top tech jobs!**  
+- 🌐 **More Courses:** [www.learnwithkastro.com](https://www.learnwithkastro.com)
 
 ---
 
@@ -27,6 +30,7 @@
 👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kastro-kiran/)  
 📺 **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@LearnWithKASTRO)  
 📱 **Join WhatsApp Group:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)  
+🌐 **Website:** [www.learnwithkastro.com](https://www.learnwithkastro.com)  
 
 ---
 
@@ -51,3 +55,4 @@
 ---
 
 🎉 *Thank you for visiting my GitHub! Don't forget to ⭐ my repositories!* 🚀  
+🌐 **Explore more courses on AWS & DevOps → [www.learnwithkastro.com](https://www.learnwithkastro.com)**  
